@@ -4,7 +4,7 @@ This git account is where I post some of my research projects and college learni
   
 - 🔭 Machine Learning and GIS Data Science:
 
-- 🏫 College projects: https://github.com/irishdevops/master_VIU_AI
+- 🏫 Artificial Intelligence master projects: https://github.com/irishdevops/master_VIU_AI
 
 
 I also love to get to chat people working on similar projects or exploring new areas of knowledge!
