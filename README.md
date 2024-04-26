@@ -1,6 +1,6 @@
 <h3 align="center"> Hey there reader! 🙌🏼 </h3>
 
-I'm Gabriel, a Data Scientist and Machine Learning engineer at Brambles. In this git I post some of my research projects and college learnings.
+I'm Gabriel, a Data Scientist and Machine Learning engineer at Brambles. In this git account I post some of my research projects and college learnings. Hope you enjoy!
   
 - 🔭 Machine Learning and GIS:
 
