@@ -3,12 +3,13 @@
 This git account is where I post some of my research projects and college learnings. Hope you enjoy and use wisely 🧙‍♂️!
   
 - 🔭 Machine Learning and GIS Data Science:
+     Here I have some data mining algorithms and computer vision MLOps set ups I use to do research.
 
 - 🏫 Artificial Intelligence master projects: https://github.com/irishdevops/master_VIU_AI
+     This is a collection of portfolios developed during my masters in Artificial Intelligence at VIU.
 
 
 I also love to get to chat people working on similar projects or exploring new areas of knowledge!
-
 
 - 🛜 Connect with me via **https://www.linkedin.com/in/g25d34i/**
 
