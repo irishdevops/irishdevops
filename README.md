@@ -4,7 +4,7 @@ I'm Gabriel, a Data Scientist and Machine Learning engineer at Brambles. In this
   
 - 🔭 Machine Learning and GIS:
 
-- 🏫 College projects:
+- 🏫 College projects: https://github.com/irishdevops/master_VIU_AI
 
 
 I also love to get to chat people working on similar projects or exploring new areas of knowledge!
