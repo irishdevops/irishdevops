@@ -11,7 +11,7 @@ This git account is where I post some of my research projects and college learni
 
 I also love to chat with enthisastic people working on similar projects or exploring new areas of knowledge!
 
-- 🛜 Connect with me via **https://www.linkedin.com/in/g25d34i/**
+- 🛜 Connect me via **https://www.linkedin.com/in/g25d34i/**
 
 - 🌐 Contact me via **gabriel.diaz.ireland@gmail.com**
 
