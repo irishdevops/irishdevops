@@ -9,7 +9,7 @@ This git account is where I post some of my research projects and college learni
      This is a collection of portfolios developed during my masters in Artificial Intelligence.
 
 
-I also love to chat with enthisastic people working on similar projects or exploring new areas of knowledge!
+I also love to chat with enthusiastic people working on similar projects or exploring new areas of knowledge!
 
 - 🛜 Connect me via **https://www.linkedin.com/in/g25d34i/**
 
