@@ -2,7 +2,7 @@
 
 This git account is where I post some of my research projects and college learnings. Hope you enjoy and use wisely 🧙‍♂️!
   
-- 🔭 **Machine Learning and Geospatial Data Science**: <br>
+- 🔭 **Machine Learning and Geospatial Data Science: https://github.com/irishdevops/Satellites_Land_Coverage_MLOPS_training/tree/main** <br>
      Here I have some data mining algorithms and computer vision MLOps set ups I use to do research.
 
 - 🏫 **Artificial Intelligence master projects: https://github.com/irishdevops/master_VIU_AI** <br>
