@@ -1,4 +1,4 @@
-<h3 align="center"> Hey there reader! 🙌🏼 </h3>
+<h3 align="center"> Hey there reader! 👋 </h3>
 
 This git account is where I post some of my research projects and college learnings. Hope you enjoy and use wisely!
   
