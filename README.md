@@ -1,12 +1,15 @@
 <h3 align="center"> Hey there reader! 👋 </h3>
 
 This git account is where I post some of my research projects and college learnings. Hope you enjoy and use wisely!
+
   
 - 🔭 **Machine Learning and Geospatial Data Science: https://github.com/irishdevops/Satellites_Land_Coverage_MLOPS_training/tree/main** <br>
-     Data mining algorithms and computer vision MLOps set ups to train computer vision models with earth engine data!
+     **Data mining algorithms and computer vision MLOps set ups to train computer vision models with earth engine data!**
+  
 
 - 🏫 **Artificial Intelligence master projects: https://github.com/irishdevops/master_VIU_AI** <br>
-     This is a collection of portfolios developed during my masters in Artificial Intelligence.
+     **This is a collection of portfolios developed during my masters in Artificial Intelligence.**
+
 
 
 I'd also love to chat with people working on similar projects or exploring new areas of knowledge!
