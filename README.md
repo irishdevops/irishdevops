@@ -7,7 +7,7 @@ This git account is where I post some of my research projects and college learni
      **Data mining algorithms and computer vision MLOps set ups to train computer vision models with earth engine data!**
   
 
-- 🏫 **Artificial Intelligence master projects: https://github.com/irishdevops/master_VIU_AI** <br>
+- 🤖 **Artificial Intelligence master projects: https://github.com/irishdevops/master_VIU_AI** <br>
      **This is a collection of portfolios developed during my masters in Artificial Intelligence.**
 
 
