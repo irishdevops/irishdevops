@@ -9,11 +9,11 @@ This git account is where I post some of my research projects and college learni
      This is a collection of portfolios developed during my masters in Artificial Intelligence.
 
 
-I also love to chat with enthusiastic people working on similar projects or exploring new areas of knowledge!
+I'd also love to chat with people working on similar projects or exploring new areas of knowledge!
 
-- 🛜 Connect me via **https://www.linkedin.com/in/g25d34i/**
+- 🛜 Connect me via linkedin **https://www.linkedin.com/in/g25d34i/**
 
-- 🌐 Contact me via **gabriel.diaz.ireland@gmail.com**
+- 🌐 Contact me via email **gabriel.diaz.ireland@gmail.com**
 
 <p align="left">
 </p>
