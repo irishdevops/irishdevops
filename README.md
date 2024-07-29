@@ -15,7 +15,6 @@ This git account is where I post some of my research projects. Hope you enjoy an
 I'd also love to chat with people working on similar projects or exploring new areas of knowledge!
 
 - 🛜 Connect me via linkedin **https://www.linkedin.com/in/g25d34i/**
-
 - 🌐 Contact me via email **gabriel.diaz.ireland@gmail.com**
 
 <p align="left">
